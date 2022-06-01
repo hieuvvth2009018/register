@@ -1,11 +1,12 @@
 package java.com.example.controller;
 
-import com.example.entity.Student;
+import java.com.example.entity.Student;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import java.com.example.entity.Student;
 import java.io.IOException;
 import java.time.LocalDate;
 
